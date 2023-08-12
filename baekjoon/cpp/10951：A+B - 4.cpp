@@ -1,5 +1,5 @@
 // 10951번 : A+B - 4
-// 주소 :https://www.acmicpc.net/problem/10951
+// 주소 : https://www.acmicpc.net/problem/10951
 
 #include <iostream>
 
